@@ -1,0 +1,8 @@
+C:\Users\Gamer\Desktop\Roadmap C#\Dia 4 Estruturas condicionais\bin\Debug\Dia 4 Estruturas condicionais.exe.config
+C:\Users\Gamer\Desktop\Roadmap C#\Dia 4 Estruturas condicionais\bin\Debug\Dia 4 Estruturas condicionais.exe
+C:\Users\Gamer\Desktop\Roadmap C#\Dia 4 Estruturas condicionais\bin\Debug\Dia 4 Estruturas condicionais.pdb
+C:\Users\Gamer\Desktop\Roadmap C#\Dia 4 Estruturas condicionais\obj\Debug\Dia 4 Estruturas condicionais.csproj.AssemblyReference.cache
+C:\Users\Gamer\Desktop\Roadmap C#\Dia 4 Estruturas condicionais\obj\Debug\Dia 4 Estruturas condicionais.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\Desktop\Roadmap C#\Dia 4 Estruturas condicionais\obj\Debug\Dia 4 Estruturas condicionais.exe
+C:\Users\Gamer\Desktop\Roadmap C#\Dia 4 Estruturas condicionais\obj\Debug\Dia 4 Estruturas condicionais.pdb
+C:\Users\Gamer\Desktop\Roadmap C#\Dia 4 Estruturas condicionais\obj\Debug\Dia 4 Estruturas condicionais.exe.config

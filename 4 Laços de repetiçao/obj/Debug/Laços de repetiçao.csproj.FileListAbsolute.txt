@@ -1,0 +1,8 @@
+C:\Users\Gamer\Desktop\Roadmap C#\semana 1\Laços de repetiçao\bin\Debug\Laços de repetiçao.exe.config
+C:\Users\Gamer\Desktop\Roadmap C#\semana 1\Laços de repetiçao\bin\Debug\Laços de repetiçao.exe
+C:\Users\Gamer\Desktop\Roadmap C#\semana 1\Laços de repetiçao\bin\Debug\Laços de repetiçao.pdb
+C:\Users\Gamer\Desktop\Roadmap C#\semana 1\Laços de repetiçao\obj\Debug\Laços de repetiçao.csproj.AssemblyReference.cache
+C:\Users\Gamer\Desktop\Roadmap C#\semana 1\Laços de repetiçao\obj\Debug\Laços de repetiçao.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\Desktop\Roadmap C#\semana 1\Laços de repetiçao\obj\Debug\Laços de repetiçao.exe
+C:\Users\Gamer\Desktop\Roadmap C#\semana 1\Laços de repetiçao\obj\Debug\Laços de repetiçao.pdb
+C:\Users\Gamer\Desktop\Roadmap C#\semana 1\Laços de repetiçao\obj\Debug\Laços de repetiçao.exe.config
