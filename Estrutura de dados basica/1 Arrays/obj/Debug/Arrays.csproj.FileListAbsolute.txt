@@ -1,0 +1,8 @@
+C:\Users\Gamer\Desktop\Roadmap C#\Estrutura de dados basica\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+C:\Users\Gamer\Desktop\Roadmap C#\Estrutura de dados basica\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\Desktop\Roadmap C#\Estrutura de dados basica\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\Gamer\Desktop\Roadmap C#\Estrutura de dados basica\Arrays\bin\Debug\Arrays.exe
+C:\Users\Gamer\Desktop\Roadmap C#\Estrutura de dados basica\Arrays\bin\Debug\Arrays.pdb
+C:\Users\Gamer\Desktop\Roadmap C#\Estrutura de dados basica\Arrays\obj\Debug\Arrays.exe
+C:\Users\Gamer\Desktop\Roadmap C#\Estrutura de dados basica\Arrays\obj\Debug\Arrays.pdb
+C:\Users\Gamer\Desktop\Roadmap C#\Estrutura de dados basica\Arrays\obj\Debug\Arrays.exe.config

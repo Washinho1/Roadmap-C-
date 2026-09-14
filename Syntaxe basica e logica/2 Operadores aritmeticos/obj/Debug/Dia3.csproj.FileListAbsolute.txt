@@ -1,0 +1,8 @@
+C:\Users\Gamer\Desktop\Roadmap C#\Dia3\bin\Debug\Dia3.exe.config
+C:\Users\Gamer\Desktop\Roadmap C#\Dia3\bin\Debug\Dia3.exe
+C:\Users\Gamer\Desktop\Roadmap C#\Dia3\bin\Debug\Dia3.pdb
+C:\Users\Gamer\Desktop\Roadmap C#\Dia3\obj\Debug\Dia3.csproj.AssemblyReference.cache
+C:\Users\Gamer\Desktop\Roadmap C#\Dia3\obj\Debug\Dia3.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\Desktop\Roadmap C#\Dia3\obj\Debug\Dia3.exe
+C:\Users\Gamer\Desktop\Roadmap C#\Dia3\obj\Debug\Dia3.pdb
+C:\Users\Gamer\Desktop\Roadmap C#\Dia3\obj\Debug\Dia3.exe.config
