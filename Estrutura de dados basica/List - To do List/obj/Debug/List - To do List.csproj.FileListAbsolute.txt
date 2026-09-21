@@ -1,0 +1,8 @@
+C:\Users\Gamer\Desktop\Roadmap C#\Estrutura de dados basica\List - To do List\bin\Debug\List - To do List.exe.config
+C:\Users\Gamer\Desktop\Roadmap C#\Estrutura de dados basica\List - To do List\bin\Debug\List - To do List.exe
+C:\Users\Gamer\Desktop\Roadmap C#\Estrutura de dados basica\List - To do List\bin\Debug\List - To do List.pdb
+C:\Users\Gamer\Desktop\Roadmap C#\Estrutura de dados basica\List - To do List\obj\Debug\List - To do List.csproj.AssemblyReference.cache
+C:\Users\Gamer\Desktop\Roadmap C#\Estrutura de dados basica\List - To do List\obj\Debug\List - To do List.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\Desktop\Roadmap C#\Estrutura de dados basica\List - To do List\obj\Debug\List - To do List.exe
+C:\Users\Gamer\Desktop\Roadmap C#\Estrutura de dados basica\List - To do List\obj\Debug\List - To do List.pdb
+C:\Users\Gamer\Desktop\Roadmap C#\Estrutura de dados basica\List - To do List\obj\Debug\List - To do List.exe.config
