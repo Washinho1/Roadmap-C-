@@ -1,0 +1,8 @@
+C:\Users\Gamer\Desktop\Roadmap C#\Estrutura de dados basica\Dicionario - Agenda de contatos que busca por nome\obj\Debug\Dicionario - Agenda de contatos que busca por nome.csproj.AssemblyReference.cache
+C:\Users\Gamer\Desktop\Roadmap C#\Estrutura de dados basica\Dicionario - Agenda de contatos que busca por nome\obj\Debug\Dicionario - Agenda de contatos que busca por nome.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\Desktop\Roadmap C#\Estrutura de dados basica\Dicionario - Agenda de contatos que busca por nome\bin\Debug\Dicionario - Agenda de contatos que busca por nome.exe.config
+C:\Users\Gamer\Desktop\Roadmap C#\Estrutura de dados basica\Dicionario - Agenda de contatos que busca por nome\bin\Debug\Dicionario - Agenda de contatos que busca por nome.exe
+C:\Users\Gamer\Desktop\Roadmap C#\Estrutura de dados basica\Dicionario - Agenda de contatos que busca por nome\bin\Debug\Dicionario - Agenda de contatos que busca por nome.pdb
+C:\Users\Gamer\Desktop\Roadmap C#\Estrutura de dados basica\Dicionario - Agenda de contatos que busca por nome\obj\Debug\Dicionario - Agenda de contatos que busca por nome.exe
+C:\Users\Gamer\Desktop\Roadmap C#\Estrutura de dados basica\Dicionario - Agenda de contatos que busca por nome\obj\Debug\Dicionario - Agenda de contatos que busca por nome.pdb
+C:\Users\Gamer\Desktop\Roadmap C#\Estrutura de dados basica\Dicionario - Agenda de contatos que busca por nome\obj\Debug\Dicionario - Agenda de contatos que busca por nome.exe.config

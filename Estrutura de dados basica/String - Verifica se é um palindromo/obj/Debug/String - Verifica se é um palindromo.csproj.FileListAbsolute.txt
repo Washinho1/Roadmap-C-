@@ -1,0 +1,8 @@
+C:\Users\Gamer\Desktop\Roadmap C#\Estrutura de dados basica\String - Verifica se é um palindromo\bin\Debug\String - Verifica se é um palindromo.exe.config
+C:\Users\Gamer\Desktop\Roadmap C#\Estrutura de dados basica\String - Verifica se é um palindromo\bin\Debug\String - Verifica se é um palindromo.exe
+C:\Users\Gamer\Desktop\Roadmap C#\Estrutura de dados basica\String - Verifica se é um palindromo\bin\Debug\String - Verifica se é um palindromo.pdb
+C:\Users\Gamer\Desktop\Roadmap C#\Estrutura de dados basica\String - Verifica se é um palindromo\obj\Debug\String - Verifica se é um palindromo.csproj.AssemblyReference.cache
+C:\Users\Gamer\Desktop\Roadmap C#\Estrutura de dados basica\String - Verifica se é um palindromo\obj\Debug\String - Verifica se é um palindromo.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\Desktop\Roadmap C#\Estrutura de dados basica\String - Verifica se é um palindromo\obj\Debug\String - Verifica se é um palindromo.exe
+C:\Users\Gamer\Desktop\Roadmap C#\Estrutura de dados basica\String - Verifica se é um palindromo\obj\Debug\String - Verifica se é um palindromo.pdb
+C:\Users\Gamer\Desktop\Roadmap C#\Estrutura de dados basica\String - Verifica se é um palindromo\obj\Debug\String - Verifica se é um palindromo.exe.config
