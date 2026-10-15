@@ -18,7 +18,8 @@ namespace Dicionario___Agenda_de_contatos_que_busca_por_nome
             contacts.Add("marcelo", "19987543221");
 
             Console.WriteLine("Qual o contato que deseja buscar?");
-            string search = Console.ReadLine();
+            string searchOriginal = Console.ReadLine();
+            string search = searchOriginal.ToLower();
 
             if (contacts.ContainsKey(search))
             {
@@ -29,17 +30,28 @@ namespace Dicionario___Agenda_de_contatos_que_busca_por_nome
                 Console.WriteLine("Esse contato nao existe");
                 Console.WriteLine("Deseja adicionar? 1 Sim - 2 Nao");
 
-                int choice = int.Parse(Console.ReadLine());
+                string choiceOriginal = Console.ReadLine();
+                int choice;
 
-                if (choice == 1){
-                    Console.WriteLine("Qual o numero dessa pessoa?");
+                bool right = int.TryParse(choiceOriginal, out choice);
+
+                if (choice == 1)
+                {
+                    Console.WriteLine("\nQual o numero dessa pessoa?");
                     contacts.Add(search, Console.ReadLine());
-                    Console.WriteLine("Contato adicionado com sucesso \n");
+                    Console.WriteLine("\nContato adicionado com sucesso");
+                }
+                else if (choice == 2) {
+                    Console.WriteLine("\nO contato nao sera adicionado, segue a lista de contatos existentes");
+                }
+
+                else {
+                    Console.WriteLine("\nNao foi escolhido um numero correto");
                 }
             }
             foreach (var contact in contacts)
             {
-                Console.WriteLine(contact);
+                Console.WriteLine($"\nNome {contact.Key} - numero : {contact.Value}");
             }
         }
     }
